@@ -1,0 +1,6 @@
+{
+  "name": "PetroSoft Knowledge Plaza",
+  "description": "A comprehensive professional software knowledge platform for the petroleum industry, featuring software directories, community forums, technical knowledge bases, and an AI-powered technical assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
